@@ -1,8 +1,8 @@
 # Novels Project Identifiers
 
 The file `novels-project-identifiers.json` contains a mapping between
-bibliographic identifiers. The keys in the JSON dictionary are novels project
-ids (integers starting with 1) and the values are other canonical identifiers
+bibliographic identifiers. The keys in the JSON dictionary are Novels Project
+identifiers (integers starting with 1) and the values are other canonical identifiers
 of bibliographic identifiers.
 
 For example, the novel with Novels Project identifier 68 is Charlotte Smith's
