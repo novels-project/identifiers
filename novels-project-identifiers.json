@@ -10284,7 +10284,7 @@
     "novels-project": 2571
   },
   "2572": {
-    "garside-raven-schöwerling": "1833:35",
+    "garside-raven-schöwerling": "1833:35(a)",
     "novels-project": 2572
   },
   "2573": {
@@ -10364,7 +10364,7 @@
     "novels-project": 2591
   },
   "2592": {
-    "garside-raven-schöwerling": "1833:55",
+    "garside-raven-schöwerling": "1833:55(a)",
     "novels-project": 2592
   },
   "2593": {
@@ -11610,6 +11610,14 @@
   "2903": {
     "garside-raven-schöwerling": "UPDATE6:1",
     "novels-project": 2903
+  },
+  "2904": {
+    "garside-raven-schöwerling": "1833:35(b)",
+    "novels-project": 2904
+  },
+  "2905": {
+    "garside-raven-schöwerling": "1833:55(b)",
+    "novels-project": 2905
   },
   "3000": {
     "novels-project": 3000
