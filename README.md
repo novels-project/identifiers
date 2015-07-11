@@ -2,8 +2,7 @@
 
 The file `novels-project-identifiers.json` contains a mapping between
 bibliographic identifiers. The keys in the JSON dictionary are Novels Project
-identifiers (integers starting with 1) and the values are other canonical identifiers
-of bibliographic identifiers.
+identifiers (integers starting with 1) and the values are other canonical identifiers.
 
 For example, the novel with Novels Project identifier 68 is Charlotte Smith's
 *Letters of a Solitary Wanderer* (1800). This novel also appears in Garside,
